@@ -4,6 +4,7 @@ from Exercicio_001.Funcoes.Fatorial import Fatorial
 from Exercicio_001.Funcoes.Perimetro_Retangulo import Perimetro
 from Exercicio_001.Funcoes.Saudacao_Msg import SaudacaoMsg
 from Exercicio_001.Funcoes.saudacao import saudacao
+from Exercicio_001.Funcoes.Operadores import operador
 
 if __name__ == '__main__':
     t = Execicio1(5)
@@ -24,6 +25,10 @@ if __name__ == '__main__':
 
     y=Perimetro(5,9)
     print(y.calcula_perimetro())
+
+    op = operador.tiposOperadores()
+
+
 
 
 
