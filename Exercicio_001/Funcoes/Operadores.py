@@ -1,20 +1,24 @@
 class operador():
-    def tiposOperadores(self):
-        n1=100
-        n2=200
-        n3=300
-        n4=400
-        n5=500
-        n6=88
 
-        print("-"*30)
-        op1 =n1/n2
-        op2 = n2//n1
-        op3 = n1%n2
-        op4 = n4//n5
-        op5 = n5 / n6
-        print("OP1 = ",op1)
-        print("OP2 = ", op2)
-        print("OP3= ", op3)
-        print("OP4 = ", op4)
-        print("OP5 = ", op5)
+    def __init__(self,n1,n2,n3,n4,n5,n6):
+        self.n1 = n1
+        self.n2 = n2
+        self.n3 = n3
+        self.n4 = n4
+        self.n5 = n5
+        self.n6 = n6
+
+
+    def tiposOperadores(self):
+        op1 =self.n1/self.n2
+        op2 = self.n2//self.n1
+        op3 = self.n3%self.n2
+        op4 = self.n4//self.n5
+        op5 = self.n5 / self.n6
+
+        print(op1)
+        print(op2)
+        print(op3)
+        print(op4)
+        print(op5)
+
