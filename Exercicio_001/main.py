@@ -7,6 +7,7 @@ from Exercicio_001.Funcoes.saudacao import saudacao
 from Exercicio_001.Funcoes.Operadores import operador
 
 if __name__ == '__main__':
+
     t = Execicio1(5)
     t.executar()
     print("")
@@ -26,8 +27,9 @@ if __name__ == '__main__':
     y=Perimetro(5,9)
     print(y.calcula_perimetro())
 
-    op = operador.tiposOperadores()
 
+    op = operador(1,2,2,4,6,4)
+    op.tiposOperadores()
 
 
 
