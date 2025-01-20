@@ -1,0 +1,58 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b3d9b8e5-4aa4-4292-9ae2-0623cd394b25\" name=\"Changes\" comment=\"&quot;Arquivos de Exercicios em Python&quot;\">\n      <change beforePath=\"$PROJECT_DIR$/Exercicio_001/Funcoes/Operadores.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Exercicio_001/Funcoes/Operadores.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Exercicio_001/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Exercicio_001/main.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"Projetos_Python\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;mvlservicosinfo&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/mvlservicosinfo/Projetos_Python.git&quot;,\n    &quot;accountId&quot;: &quot;12bf6343-49f7-4ab1-93d6-d2ba01f289ae&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 8\n}</component>\n  <component name=\"ProjectId\" id=\"2rONUqSCB5DUBM3OzPy482trj3y\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;Projetos__Python&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/marcello/PycharmProjects/Projetos_python&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"Projetos_python\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"SDK_NAME\" value=\"Python 3.11 (Projetos_python)\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Exercicio_001\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Exercicio_001/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"b3d9b8e5-4aa4-4292-9ae2-0623cd394b25\" name=\"Changes\" comment=\"\" />\n      <created>1736426179778</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1736426179778</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"&quot;Arquivos de Exercicios em Python&quot;\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1736427588511</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1736427588511</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"&quot;Arquivos de Exercicios em Python&quot;\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1736446035001</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1736446035001</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"&quot;Arquivos de Exercicios em Python&quot;\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1736446053350</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1736446053350</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"&quot;Arquivos de Exercicios em Python&quot;\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1736446072256</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1736446072256</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"5\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"master\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"&quot;Arquivos de Exercicios em Python&quot;\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"&quot;Arquivos de Exercicios em Python&quot;\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 21456decb0f3dd7ba28fc2a21f51e341ddbb3c73)
++++ b/.idea/workspace.xml	(date 1736505532954)
+@@ -4,9 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Arquivos de Exercicios em Python&quot;">
+-      <change beforePath="$PROJECT_DIR$/Exercicio_001/Funcoes/Operadores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/Funcoes/Operadores.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Exercicio_001/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/main.py" afterDir="false" />
++    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Execução de Funções&quot;">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -138,7 +137,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1736446072256</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="&quot;Calculo com Operadores&quot;">
++      <option name="closed" value="true" />
++      <created>1736505422092</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1736505422092</updated>
++    </task>
++    <task id="LOCAL-00006" summary="&quot;Execução de Funções&quot;">
++      <option name="closed" value="true" />
++      <created>1736505463960</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1736505463960</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -166,6 +181,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="&quot;Arquivos de Exercicios em Python&quot;" />
+-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Arquivos de Exercicios em Python&quot;" />
++    <MESSAGE value="&quot;Calculo com Operadores&quot;" />
++    <MESSAGE value="&quot;Execução de Funções&quot;" />
++    <option name="LAST_COMMIT_MESSAGE" value="&quot;Execução de Funções&quot;" />
+   </component>
+ </project>
+\ No newline at end of file
