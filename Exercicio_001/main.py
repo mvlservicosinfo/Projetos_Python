@@ -7,6 +7,9 @@ from Exercicio_001.Funcoes.saudacao import saudacao
 from Exercicio_001.Funcoes.Operadores import operador
 from Exercicio_001.Funcoes.SimpleHist import Potencia
 from Exercicio_001.Funcoes.ListCompreension import Lista
+from Exercicio_001.Funcoes.Arquivos_solucoes import Arquivos
+
+
 
 
 if __name__ == '__main__':
@@ -40,6 +43,12 @@ if __name__ == '__main__':
     l = Lista()
     print(l.calc)
     print(l.dict_economia)
+
+
+    txt = input("Digite uma frase: ")
+    arq = Arquivos(txt)
+
+
 
 
 
