@@ -1,4 +1,3 @@
 class Simple:
-
-    potencia = lambda x,y : x**y
+    potentiate = lambda x, y : x ** y
 
