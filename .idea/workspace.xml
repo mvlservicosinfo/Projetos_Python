@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Função List Compreension&quot;">
+    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Função Potencia&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_001/Funcoes/ListCompreension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/Funcoes/ListCompreension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicio_001/Funcoes/SimpleHist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/Funcoes/SimpleHist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_001/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737374767863</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&quot;Função Potencia&quot;">
+      <option name="closed" value="true" />
+      <created>1737374850409</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737374850409</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +228,7 @@
     <MESSAGE value="&quot;Execução de Funções&quot;" />
     <MESSAGE value="&quot;Função Anonima Lambda&quot;" />
     <MESSAGE value="&quot;Função List Compreension&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Função List Compreension&quot;" />
+    <MESSAGE value="&quot;Função Potencia&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Função Potencia&quot;" />
   </component>
 </project>
