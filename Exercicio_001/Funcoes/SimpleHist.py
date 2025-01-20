@@ -1,3 +1,4 @@
-potentiate = lambda x, y : x ** y
+class Potencia():
+   pot = lambda x, y : x ** y
 
 
