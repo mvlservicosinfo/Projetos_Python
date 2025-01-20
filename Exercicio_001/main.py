@@ -5,7 +5,9 @@ from Exercicio_001.Funcoes.Perimetro_Retangulo import Perimetro
 from Exercicio_001.Funcoes.Saudacao_Msg import SaudacaoMsg
 from Exercicio_001.Funcoes.saudacao import saudacao
 from Exercicio_001.Funcoes.Operadores import operador
-from Exercicio_001.Funcoes.SimpleHist import potencia
+from Exercicio_001.Funcoes.SimpleHist import potentiate
+from Exercicio_001.Funcoes.ListCompreension import Lista
+
 
 if __name__ == '__main__':
 
@@ -32,7 +34,16 @@ if __name__ == '__main__':
     op = operador(1,2,2,4,6,4)
     op.tiposOperadores()
 
-    print(potencia(8,9))
+    print(potentiate (2, 5))
+
+    l = Lista()
+    print(l.calc)
+    print(l.dict_economia)
+
+
+
+
+
 
 
 
