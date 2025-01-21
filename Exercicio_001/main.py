@@ -44,9 +44,9 @@ if __name__ == '__main__':
     print(l.calc)
     print(l.dict_economia)
 
-
     txt = input("Digite uma frase: ")
     arq = Arquivos(txt)
+
 
 
 

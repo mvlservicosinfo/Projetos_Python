@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Funcao SimpleHist&quot;">
-      <change afterPath="$PROJECT_DIR$/Exercicio_001/Funcoes/Arquivos_solucoes.py" afterDir="false" />
+    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Arquivo Main&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_001/Funcoes/ListCompreension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/Funcoes/ListCompreension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicio_001/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737379942768</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="&quot;Tratament de Arquivos&quot;">
+      <option name="closed" value="true" />
+      <created>1737385895895</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737385895895</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&quot;Arquivo Main&quot;">
+      <option name="closed" value="true" />
+      <created>1737385913308</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737385913309</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +287,8 @@
     <MESSAGE value="&quot;Funcoes de ListCompreension&quot;" />
     <MESSAGE value="&quot;Funcao main&quot;" />
     <MESSAGE value="&quot;Funcao SimpleHist&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Funcao SimpleHist&quot;" />
+    <MESSAGE value="&quot;Tratament de Arquivos&quot;" />
+    <MESSAGE value="&quot;Arquivo Main&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Arquivo Main&quot;" />
   </component>
 </project>
