@@ -8,9 +8,7 @@ from Exercicio_001.Funcoes.Operadores import operador
 from Exercicio_001.Funcoes.SimpleHist import Potencia
 from Exercicio_001.Funcoes.ListCompreension import Lista
 from Exercicio_001.Funcoes.Arquivos_solucoes import Arquivos
-
-
-
+from Exercicio_001.Funcoes.Lista_dicionario import Listar_Dicionario
 
 if __name__ == '__main__':
 
@@ -41,11 +39,18 @@ if __name__ == '__main__':
     print(p.pot(2,8))
 
     l = Lista()
-    print(l.calc)
     print(l.dict_economia)
+
 
     txt = input("Digite uma frase: ")
     arq = Arquivos(txt)
+
+    valor = int(input("Digite o valor da compra: "))
+    c = Listar_Dicionario(valor)
+    c.calculo()
+
+
+
 
 
 

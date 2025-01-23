@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Arquivo Main&quot;">
+    <list default="true" id="b3d9b8e5-4aa4-4292-9ae2-0623cd394b25" name="Changes" comment="&quot;Lista Diciconario 1&quot;">
+      <change afterPath="$PROJECT_DIR$/Exercicio_001/Funcoes/Lista_dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_001/Funcoes/ListCompreension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/Funcoes/ListCompreension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicio_001/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_001/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +96,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-84874afdbe1a-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.74" />
       </set>
     </attachedChunks>
   </component>
@@ -251,7 +253,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737385913309</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&quot;ListCompressao&quot;">
+      <option name="closed" value="true" />
+      <created>1737461283440</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737461283440</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&quot;Arquivo Main&quot;">
+      <option name="closed" value="true" />
+      <created>1737461299297</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737461299297</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&quot;Lista Diciconario 1&quot;">
+      <option name="closed" value="true" />
+      <created>1737636063284</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737636063284</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +314,9 @@
     <MESSAGE value="&quot;Funcao main&quot;" />
     <MESSAGE value="&quot;Funcao SimpleHist&quot;" />
     <MESSAGE value="&quot;Tratament de Arquivos&quot;" />
+    <MESSAGE value="&quot;ListCompressao&quot;" />
     <MESSAGE value="&quot;Arquivo Main&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Arquivo Main&quot;" />
+    <MESSAGE value="&quot;Lista Diciconario 1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Lista Diciconario 1&quot;" />
   </component>
 </project>
